@@ -3,7 +3,9 @@
      "name":"Apple ",
       "picture": "images/apple.jpg",
       "old_price":120,
-      "price":80
+      "price":80,
+      "unit":"per Kg",
+      "disc": "Fresh Apple"
     },
     {
       "name":"Tomato",

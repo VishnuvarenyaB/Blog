@@ -45,6 +45,6 @@
       "old_price":60,
       "price":40,
       "unit":"per Kg",
-      "disc": "Fresh Grapes
+      "disc": "Fresh Grapes"
     }
   ]
